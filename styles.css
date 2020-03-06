@@ -1,0 +1,40 @@
+#one {
+    background-color:lightblue;
+}
+
+#two {
+    background-color:lightgreen;
+}
+#three{
+    background-color:yellow;
+}
+#four{
+    background-color:red;
+}
+button{
+    width:60px;
+    height:60px;
+}    
+#five{
+    background-color:orange;
+}
+#six{
+    background-color:purple;
+}
+#seven{
+    background-color:gray;
+}
+#eghit{
+    
+}
+#lol {
+    float:right;
+    display: none;
+}
+h4{
+  text-align:center;
+}
+h3{
+   text-align:center; 
+}
+    
